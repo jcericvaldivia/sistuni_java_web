@@ -1,0 +1,58 @@
+CLASE 2 JAVA WEB  24/04/2016
+
+-N TIERS VS N LAYERS
+-MVC  (gcoronelc mvc) buscar en google
+
+
+el cliente mandaa un request al controller
+
+el controler ordena al model y el model hace la logica y devuelve al controller
+
+
+el controller hace un forward a la vista  y la vista hace un response al cliente.
+
+
+EL PRINCIPIO  DRY (se viola constantemente al programar)
+
+principio solid
+
+GITHUB GCORONELC   BUSCO SPRING EN EL REPOSITORIO
+
+VIDEOS DE SPRING
+
+GCORONELC CEPS
+
+--------------------------------------------------
+
+MANEJO DE SESIONES
+
+EL PROTOCOLO DE INTERNET HTTP NO MANEJA ESTADOS 
+
+JAVA TIENE UN API DE SESIONES QUE LO HACE SIMPLE EL TRABAJO CON SESIONES
+PERO NO MANEJA EL ESTADO DE LOS CONTROLES
+
+LA SESION EMPIEZA CUANDO TU EMPIZAS A INTERACTUAR CON LA APLICACION  NO CUANDO INGRESAS TU CLAVE
+
+SE PUEDE GUARDAR DATOS  EN EL   CONTEXTO APP
+
+ALGUNAS APLICACIONES GUARDAR LOS DATOS  DE LAS SESIONES  EN LA BASE DE DATOS DE LA APLICACION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
